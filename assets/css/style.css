@@ -1,0 +1,24 @@
+body,html {
+	background: #000;
+	color: #fff;
+}
+.logo {
+	width: 644px;
+	margin: 30px auto;
+	margin-bottom: 50px;
+	text-align: center;
+}
+table {
+	margin: 20px auto;
+}
+table td {
+	text-align: center;
+	vertical-align: top;
+	padding: 20px;
+	border: 2px dashed #fff;
+	font-size: 1.2em;
+	max-width: 250px;
+}
+div {
+	margin-bottom: 10px;
+}
